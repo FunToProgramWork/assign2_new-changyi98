@@ -44,7 +44,7 @@ void setup()
 
 void draw() 
 {
-  //   //Switch Game State
+  //Switch Game State
   /*
   image(a,0,0);
   if(mousePressed == true)
