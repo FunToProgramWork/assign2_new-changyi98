@@ -13,7 +13,6 @@ PImage l;
 PImage m;
 PImage n;
 PImage o;
-HStar h1 = new HStar();
 
 color c1 = color(124, 204, 25);
 color c2 = color(255, 255, 0);
