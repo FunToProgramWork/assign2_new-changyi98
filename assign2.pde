@@ -45,6 +45,7 @@ void setup()
 void draw() 
 {
   //   //Switch Game State
+  /*
   image(a,0,0);
   if(mousePressed == true)
   {
@@ -54,7 +55,7 @@ void draw()
   {
     image(b,248,360,144,60);
   }
-  
+  */
   image(d,0,0);
   fill(c1);
   rect(0,145,640,15);
