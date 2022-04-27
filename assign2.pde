@@ -131,7 +131,7 @@ void keyPressed()
     xPos += 80;
     image(images[11], xPos, yPos);
   }
-  delay(100);//鍵盤按下後到執行的延遲
+  //delay(100);//鍵盤按下後到執行的延遲
 
   if (xPos > 560)//超過560後從0出現
   {
